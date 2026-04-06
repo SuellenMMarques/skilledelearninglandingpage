@@ -45,8 +45,8 @@ O projeto foi desenvolvido utilizando a abordagem **mobile first**, com ajustes 
 
 ## 🔗 Links
 
-* 🔴 Live Site: (adicione aqui)
-* 🟢 Repositório: (adicione aqui)
+* 🔴 Live Site: https://suellenmmarques.github.io/skilledelearninglandingpage/
+* 🟢 Repositório: https://github.com/SuellenMMarques/skilledelearninglandingpage
 
 ---
 
